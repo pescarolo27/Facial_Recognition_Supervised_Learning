@@ -4,6 +4,4 @@
 
 **The Data:** The dataset contains processed facial image data derived from the "Labeled Faces in the Wild" (LFW) dataset, focusing specifically on images of Arnold Schwarzenegger and other individuals not identified as him. This dataset has been prepared to aid in the development and evaluation of facial recognition models. There are 40 images of Arnold Schwarzenegger and 150 of other people.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was applied in this project.
+This project was done in February, 2025. Machine learning was applied in this project.
